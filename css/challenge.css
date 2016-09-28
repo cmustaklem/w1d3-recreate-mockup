@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+.box {
+    margin: 0 auto;
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    display: inline-block;
+}
+
+.grid {
+    margin: 0 auto;
+    max-width: 960px;
+    width: 100%;
+}
